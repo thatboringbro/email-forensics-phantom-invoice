@@ -117,3 +117,7 @@ This campaign deployed a zero-payload strategy. By omitting malicious attachment
 
 - **Out-of-Band (OOB) Verification Protocol:** Mandate a strict secondary confirmation step via a known, trusted corporate phone directory number before executing any change to vendor banking routing data or high-value payment requests.
 - **Multi-Authorized Payment Structures:** Implement dual-custody approval gates requiring secondary executive authorization tokens for transfers exceeding specific dollar thresholds.
+
+
+## Contact
+For questions and collaborations, please reach out to me on X(formerly twitter) : [@redacted](x.com/thatboringbro)
